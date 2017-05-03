@@ -1,0 +1,11 @@
+Notes minggu 0:
+1. Web dokumentasi react native : https://facebook.github.io/react-native/
+2. Web Dokumentasi react: https://facebook.github.io/react/ 
+3. Repository github kumpulan hal-hal tentang react native (project, tutorial, videos, etc) : https://github.com/jondot/awesome-react-native
+4. List fitur-fitur baru di javascript ES6: http://es6-features.org
+
+Yang perlu dipersiapkan buat memudahkan belajar react native:
+1. Coba-coba dan baca-baca tentang fitur2 ES6 di javascript.
+2. Baca-baca tentang alur pemrograman di react, kalau bisa di coba juga, terutama pelajari term-term penting di react: State, Component, sama Lifecycle. term ini bakal banyak disebut jadi usahain udah paham
+3. Install react native, os disesuaikan yang udah biasa dipake aja ga masalah. instruksinya ada di :https://facebook.github.io/react-native/
+4. Tes run react native di device.
